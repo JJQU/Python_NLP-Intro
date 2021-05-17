@@ -1,0 +1,9 @@
+#When converting floats to integers with the int() function, Python cuts off the decimal and remaining numbers of a float to create an integer. 
+b = 125.0
+c = 390.8
+
+print(int(b))
+print(int(c))
+
+a = 5 / 3
+print(a)
